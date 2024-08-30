@@ -4,9 +4,8 @@ The code was prepared on google colab.
 
 Main file is Grammar Analyses.ipynb
 
-Data_export.xlsx is the excel file which contains the random generated data of 4000 students
+Data_export.xlsx is the excel file which contains the data of test students
 
-Data_generation.ipynb is the code for the data generation
 
 For the performance dependent model
 
